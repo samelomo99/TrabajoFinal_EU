@@ -1,3 +1,6 @@
+## --- TRABAJO FINAL DE ECONOMÍA URBANA --- ##
+## --- SANTIAGO MELO MONTERO --- #
+## --- UNIVERSIDAD DE LOS ANDES --- #
 
 rm(list = ls())
 require(pacman)
